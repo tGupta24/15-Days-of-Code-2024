@@ -36,3 +36,20 @@ october 24, 2024
   - Q2: https://codeforces.com/contest/2033/submission/287754869
 
 - 3: in my javascript journey today i complete the lecture about maths and numbers form chai or code yputbe channel and read docs about javascript maths mathods
+
+- #### Day 3
+
+october 25, 2024
+
+- Question 1
+  [POTD](https://leetcode.com/submissions/detail/1433529118/)
+- Question 2
+  [RATING900](https://codeforces.com/contest/1374/submission/287958382)
+- Other Tasks
+  1: learn javascript today, i learned about array in js and read doc about methods of 
+  arary also after that learned about object from yt {chaiOrCode}
+  
+
+  
+
+
