@@ -49,6 +49,20 @@ october 25, 2024
   1: learn javascript today, i learned about array in js and read doc about methods of 
   arary also after that learned about object from yt {chaiOrCode}
   
+- #### Day 4
+
+october 26, 2024
+
+- Question 1
+  [KthLargestInArray](https://leetcode.com/submissions/detail/1433529118/)
+- Question 2
+  [CodeForces](https://codeforces.com/contest/2027/submission/288120198)
+  
+- Other Tasks
+  1: gave contest  Codeforces Round 982 (Div. 2) solved 1 problem only 
+  
+  2: learn javascript { about the functions ,loops} from youtube chai or code
+  
 
   
 
