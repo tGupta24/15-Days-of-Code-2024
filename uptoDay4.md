@@ -62,8 +62,27 @@ october 26, 2024
   1: gave contest  Codeforces Round 982 (Div. 2) solved 1 problem only 
   
   2: learn javascript { about the functions ,loops} from youtube chai or code
-  
+
+
 
   
+- #### Day 5
+
+october 26, 2024
+
+- Question 1
+  [secondTrycodeForcesRated900](https://codeforces.com/contest/1666/submission/288350115)
+- Question 2
+  [CodeForcesRated900](https://codeforces.com/contest/2027/submission/288120198)
+  
+- Other Tasks
+  1: today, i learn about js function and scope and different-2 declaration
+  like arrow function , store func in variable and scope of varible ,
+  and "this" keyword
+
+  2: love babbar
+     heap theory lecture.
+  
+   
 
 
