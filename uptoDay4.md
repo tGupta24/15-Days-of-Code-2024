@@ -90,9 +90,9 @@ october 27, 2024
 october 28, 2024
 
 - Question 1
-  [leetcodeCombinationSum](https://leetcode.com/problems/combination-sum-ii/submissions/1436453906/)
+  [leetcode](https://leetcode.com/submissions/detail/1436449784/)
 - Question 2
-  [leetcodeBinaryTree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1436495172/)
+  [leetcodeBinaryTree](https://leetcode.com/submissions/detail/1436453906/)
   
 - Other Tasks
   1: today ,learn js control flow , callback , execution phase utube chaiOrCode
