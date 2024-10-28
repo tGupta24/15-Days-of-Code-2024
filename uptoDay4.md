@@ -68,7 +68,7 @@ october 26, 2024
   
 - #### Day 5
 
-october 26, 2024
+october 27, 2024
 
 - Question 1
   [secondTrycodeForcesRated900](https://codeforces.com/contest/1666/submission/288350115)
@@ -82,6 +82,23 @@ october 26, 2024
 
   2: love babbar
      heap theory lecture.
+
+
+
+- #### Day 6
+
+october 28, 2024
+
+- Question 1
+  [leetcodeCombinationSum](https://leetcode.com/problems/combination-sum-ii/submissions/1436453906/)
+- Question 2
+  [leetcodeBinaryTree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1436495172/)
+  
+- Other Tasks
+  1: today ,learn js control flow , callback , execution phase utube chaiOrCode
+  
+
+
   
    
 
