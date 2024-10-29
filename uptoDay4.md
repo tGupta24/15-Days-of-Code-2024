@@ -96,7 +96,21 @@ october 28, 2024
   
 - Other Tasks
   1: today ,learn js control flow , callback , execution phase utube chaiOrCode
+
   
+- #### Day 7
+
+october 29, 2024
+
+- Question 1
+  [leetcode](https://leetcode.com/submissions/detail/1437457077/)
+- Question 2
+  [leetcode-2](https://leetcode.com/submissions/detail/1437470220/)
+  
+- Other Tasks
+-  1: learn new algo -> boyer moore's voting algorithm and solve two problems based on that
+  majority element ,majority element -2
+-  2 : learn javascript loops while, for, forIn, forOf, forEach  and map 
 
 
   
