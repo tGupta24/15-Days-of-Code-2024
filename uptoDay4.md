@@ -113,7 +113,17 @@ october 29, 2024
 -  2 : learn javascript loops while, for, forIn, forOf, forEach  and map 
 
 
+  - #### Day 8
+
+october 30, 2024
+
+
+- Question 1
+  [leetcode](https://leetcode.com/submissions/detail/1437457077/)
   
-   
-
-
+- Other Tasks
+    learn javascript
+    reduce, map , filter methods
+    and also move towards the basics of DOM today,
+  
+    
