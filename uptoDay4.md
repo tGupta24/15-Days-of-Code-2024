@@ -125,5 +125,24 @@ october 30, 2024
     learn javascript
     reduce, map , filter methods
     and also move towards the basics of DOM today,
+
+- #### Day 9
+
+october 31, 2024
+
+yesterday ,due to diwali & travelling also not able to study anything 
+
+  - #### Day 10
+
+Nov 1, 2024
+
+
+- Question 1
+  [leetcode](https://leetcode.com/submissions/detail/1440148855/)
+- question 2
+  [leetcode](https://leetcode.com/submissions/detail/1440097398/)
+ - Other Tasks
+   - 1 learn javascript
+   continue js and today learn about various Dom selectors
+   HTML collection and Node list
   
-    
