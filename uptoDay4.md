@@ -126,13 +126,13 @@ october 30, 2024
     reduce, map , filter methods
     and also move towards the basics of DOM today,
 
-- #### Day 9
 
-october 31, 2024
+
+#####  october 31, 2024
 
 yesterday ,due to diwali & travelling also not able to study anything 
 
-  - #### Day 10
+  - #### Day 9
 
 Nov 1, 2024
 
@@ -145,4 +145,19 @@ Nov 1, 2024
    - 1 learn javascript
    continue js and today learn about various Dom selectors
    HTML collection and Node list
+
+ #### Day 10
+
+Nov 4, 2024
+
+
+- Question 1
+  [leetcode](https://leetcode.com/submissions/detail/1442723588/)
+- question 2
+  [codeforces](https://codeforces.com/contest/1380/submission/289940423)
+- question 3
+  [codeforces](https://codeforces.com/contest/1881/submission/289933724)
+- Other Tasks
+   - 1 learn javascript
+   continue js and today learn about creating HTML element using javascript and also relation (child parent) in js 
   
