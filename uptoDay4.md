@@ -160,4 +160,22 @@ Nov 4, 2024
 - Other Tasks
    - 1 learn javascript
    continue js and today learn about creating HTML element using javascript and also relation (child parent) in js 
-  
+
+
+   #### Day 11
+
+Nov 5, 2024
+
+
+- Question 1
+  [leetcode](https://leetcode.com/submissions/detail/1443381148/)
+other task
+   - 1 learn javascript
+  in javascript learn about diffrent events
+  and complete some very basic project
+   - 1 color changer
+   - 2 bmi calculator
+   - 3 digital clock
+   - 4 guess No.
+   all are form ytube chai or code channel
+
