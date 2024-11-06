@@ -179,3 +179,25 @@ other task
    - 4 guess No.
    all are form ytube chai or code channel
 
+
+ #### Day 12
+
+Nov 6, 2024
+
+
+- Question 1
+  [POTD leetcode](https://leetcode.com/submissions/detail/1444559505/)
+- today i gave contest codechef able to solve 3 problem
+  -  question 1
+      [ICECONE](https://www.codechef.com/viewsolution/1104501815)
+  -  question 2
+      [ELECTION](https://www.codechef.com/viewsolution/1104597564)
+  -  question 3
+      [CARDGAME](https://www.codechef.com/viewsolution/1104530649)
+    
+other task
+   - 1 learn javascript
+     - in javascript today also continue to learn events
+        and async js fundamental.
+  
+
