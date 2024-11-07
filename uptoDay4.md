@@ -199,5 +199,18 @@ other task
    - 1 learn javascript
      - in javascript today also continue to learn events
         and async js fundamental.
-  
+
+
+     #### Day 13
+
+Nov 7, 2024
+
+
+- Question 1
+  [POTD](https://leetcode.com/submissions/detail/1445369726/)
+- Question 2
+  [codeforcesco](https://codeforces.com/contest/1878/submission/290403880)
+other task
+   - 1 learn javascript
+  API requests.
 
