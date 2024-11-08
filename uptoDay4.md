@@ -214,3 +214,19 @@ other task
    - 1 learn javascript
   API requests.
 
+
+     #### Day 14
+
+Nov 8, 2024
+
+
+- Question 1
+  [POTD](https://leetcode.com/submissions/detail/1446768232/)
+- Question 2
+  [leetcode](https://leetcode.com/submissions/detail/1446996699/)
+other task
+   - 1 learn javascript
+  promise and how to fetch in js
+   - 2 upsolve last codechef contest
+    - superHero problem 
+
