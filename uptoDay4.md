@@ -228,5 +228,20 @@ other task
    - 1 learn javascript
   promise and how to fetch in js
    - 2 upsolve last codechef contest
-    - superHero problem 
+    - superHero problem
+    - 
+ #### Day 15
+
+Nov 9, 2024
+
+
+- Question 1
+  [POTD](https://leetcode.com/submissions/detail/1447593099/)
+- Question 2
+  [codeforces](https://codeforces.com/contest/1675/submission/290700825)
+other task
+   - 1 learn javascript
+      asynchronuos nature of javascript  ,async, await 
+   - 2 gave contest on codeforces
+   -  [contest](https://codeforces.com/contest/2029/submission/290722791)
 
